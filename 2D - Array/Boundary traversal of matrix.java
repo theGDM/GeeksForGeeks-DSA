@@ -1,5 +1,4 @@
 // You are given a matrix of dimensions n x m. The task is to perform boundary traversal on the matrix in a clockwise manner.
-
 // Example 1:
 
 // Input:

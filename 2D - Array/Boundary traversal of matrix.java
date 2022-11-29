@@ -16,7 +16,6 @@
 // 13 14 15 16
 // The boundary traversal is:
 // 1 2 3 4 8 12 16 15 14 13 9 5
-
 class Solution{
     //Function to return list of integers that form the boundary 
     //traversal of the matrix in a clockwise manner.

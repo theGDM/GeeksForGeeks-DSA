@@ -1,5 +1,4 @@
-class Solution{
-    
+class Solution{  
     public void construct (int[] nums, int lo, int hi, int[] pre){
         if(lo > hi) 
             return;

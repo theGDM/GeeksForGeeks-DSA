@@ -1,4 +1,5 @@
 class Solution{
+    
     //Function to perform case-specific sorting of strings.
     public static String caseSort(String str){
         ArrayList<Character> s1 = new ArrayList<>();

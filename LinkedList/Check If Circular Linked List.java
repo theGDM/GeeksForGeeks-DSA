@@ -10,7 +10,6 @@ class Node
 	}
 }
 */
-
 class GfG{
     boolean isCircular(Node head){
     //0 or 1 node without loop

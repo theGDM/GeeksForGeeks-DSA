@@ -1,5 +1,4 @@
-class Solution{
-    
+class Solution{ 
     public class Node{
         int data;
         Node left;

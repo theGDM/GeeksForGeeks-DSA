@@ -1,4 +1,5 @@
 class Solution{
+    
     //Function to sort an array using quick sort algorithm.
     static void quickSort(int arr[], int low, int high){
         if(low > high) return;

@@ -11,7 +11,6 @@
 //         left = right = null; 
 //     } 
 // }
-
 class Solution{
     void leftMostNodes(Node node, ArrayList<Integer> lmn){
         if(node == null){

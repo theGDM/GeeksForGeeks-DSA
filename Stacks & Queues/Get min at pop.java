@@ -1,4 +1,5 @@
 class GetMin{
+    
     static Stack<Integer> minData;
     static int min;
     //Function to push all the elements into the stack.
